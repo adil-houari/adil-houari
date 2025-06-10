@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Adil Houari
 
-<!--
-**adil-houari/adil-houari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** from Brussels 🇧🇪 with a passion for clean code, creative problem-solving, and building meaningful web applications. I love exploring new technologies, especially in AI and modern web development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+**Front-End:** Vue.js, React, HTML5, CSS3, Tailwind  
+**Back-End:** Node.js, Express, Laravel, PHP  
+**Database:** MySQL, Firebase, MongoDB  
+**Tools:** Git, GitHub, Figma, Postman, Swagger  
+
+---
+
+### 🔭 What I'm working on
+- Personal projects to deepen my full-stack skills  
+- UI/UX improvements & performance tuning  
+- Learning about AI-powered development tools  
+
+---
+
+### 📫 Get in touch
+- [LinkedIn](https://www.linkedin.com/in/adil-houari-1b3328255/)
+- 📧 adil.houari@outlook.com
