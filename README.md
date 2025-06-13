@@ -5,8 +5,8 @@ I'm a **Full Stack Developer** from Brussels 🇧🇪 with a passion for clean c
 ---
 
 ### 🛠️ My Tech Stack
-**Front-End:** Vue.js, React, HTML5, CSS3, Tailwind  
-**Back-End:** Node.js, Express, Laravel, PHP  
+**Front-End:** Vue.js, Nuxt, React, HTML5, CSS3, Tailwind  
+**Back-End:** Node.js, Express, Laravel, PHP, JAVA, ASP.NET
 **Database:** MySQL, Firebase, MongoDB  
 **Tools:** Git, GitHub, Figma, Postman, Swagger  
 
