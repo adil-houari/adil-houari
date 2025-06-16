@@ -22,3 +22,6 @@ I'm a **Full Stack Developer** from Brussels 🇧🇪 with a passion for clean c
 ### 📫 Get in touch
 - [LinkedIn](https://www.linkedin.com/in/adil-houari-1b3328255/)
 - 📧 adil.houari@outlook.com
+
+- 📄 **Need my CV?**  
+Feel free to reach out via email or send me a message on LinkedIn! ✉️
